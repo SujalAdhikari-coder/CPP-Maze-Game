@@ -46,4 +46,4 @@ Maze Snake Game is a 2D maze game built using SFML in C++. Players control a sna
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://your-git-repo-url.git
+   git clone https://github.com/SujalAdhikari-coder/CPP-Maze-Game.git
