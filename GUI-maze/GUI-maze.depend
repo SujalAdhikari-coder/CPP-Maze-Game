@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1744601567 source:e:\c++\gui\gui-maze\game.cpp
+	"Game.h"
+	"Level1.h"
+	"Level2.h"
+	"Level3.h"
+	"SelectLevel.h"
+	"Credits.h"
+	"Collectables.h"
+	<iostream>
+	<cctype>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Keyboard.hpp>
+
+1744600281 e:\c++\gui\gui-maze\game.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Menu.h"
+	"Scoreboard.h"
+	"Level.h"
+	"Maze.h"
+	"SelectLevel.h"
+	"Credits.h"
+	"Level1.h"
+	"Level2.h"
+	"Level3.h"
+	"Snake.h"
+	"Collectables.h"
+
+1744483402 e:\c++\gui\gui-maze\maze.h
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+
+1744562537 e:\c++\gui\gui-maze\snake.h
+	<SFML/Graphics.hpp>
+	<vector>
+	"Maze.h"
+
+1744129390 source:e:\c++\gui\gui-maze\main.cpp
+	"Game.h"
+
+1744483425 source:e:\c++\gui\gui-maze\maze.cpp
+	"Maze.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1744562544 source:e:\c++\gui\gui-maze\snake.cpp
+	"Snake.h"
+	<iostream>
+
+1744567245 e:\c++\gui\gui-maze\menu.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744567254 source:e:\c++\gui\gui-maze\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1744600310 e:\c++\gui\gui-maze\scoreboard.h
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+
+1744600370 source:e:\c++\gui\gui-maze\scoreboard.cpp
+	"Scoreboard.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<sstream>
+
+1744561514 source:e:\c++\gui\gui-maze\level1.cpp
+	"Level1.h"
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1744481227 e:\c++\gui\gui-maze\level1.h
+	<SFML/Graphics.hpp>
+	<vector>
+	"Level.h"
+	"Maze.h"
+
+1744481221 e:\c++\gui\gui-maze\level.h
+	<SFML/Graphics.hpp>
+	"Maze.h"
+
+1744561526 source:e:\c++\gui\gui-maze\level2.cpp
+	"Level2.h"
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1744481250 e:\c++\gui\gui-maze\level2.h
+	"Level.h"
+
+1744561533 source:e:\c++\gui\gui-maze\level3.cpp
+	"Level3.h"
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1744481266 e:\c++\gui\gui-maze\level3.h
+	"Level.h"
+
+1744475317 source:e:\c++\gui\gui-maze\levelselect.cpp
+	"LevelSelect.h"
+	<iostream>
+
+1744475305 e:\c++\gui\gui-maze\levelselect.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744564738 source:e:\c++\gui\gui-maze\selectlevel.cpp
+	"SelectLevel.h"
+	<iostream>
+
+1744482523 e:\c++\gui\gui-maze\selectlevel.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744567304 source:e:\c++\gui\gui-maze\credits.cpp
+	"Credits.h"
+	<iostream>
+
+1744566153 e:\c++\gui\gui-maze\credits.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744601060 source:e:\c++\gui\gui-maze\collectables.cpp
+	"Collectables.h"
+	<iostream>
+	<cmath>
+
+1744601049 e:\c++\gui\gui-maze\collectables.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1744604922 source:e:\gui-maze\collectables.cpp
+	"Collectables.h"
+	<iostream>
+	<cmath>
+
+1744604920 e:\gui-maze\collectables.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1744604899 source:e:\gui-maze\credits.cpp
+	"Credits.h"
+	<iostream>
+	<sstream>
+
+1744604918 e:\gui-maze\credits.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744898661 source:e:\gui-maze\game.cpp
+	"Game.h"
+	"Level1.h"
+	"Level2.h"
+	"Level3.h"
+	"SelectLevel.h"
+	"Credits.h"
+	"Collectables.h"
+	<iostream>
+	<cctype>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Keyboard.hpp>
+
+1744604915 e:\gui-maze\game.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Menu.h"
+	"Scoreboard.h"
+	"Level.h"
+	"Maze.h"
+	"SelectLevel.h"
+	"Credits.h"
+	"Level1.h"
+	"Level2.h"
+	"Level3.h"
+	"Snake.h"
+	"Collectables.h"
+
+1744567245 e:\gui-maze\menu.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744600310 e:\gui-maze\scoreboard.h
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+
+1744481221 e:\gui-maze\level.h
+	<SFML/Graphics.hpp>
+	"Maze.h"
+
+1744483402 e:\gui-maze\maze.h
+	<SFML/Graphics.hpp>
+	<string>
+	<vector>
+
+1744482523 e:\gui-maze\selectlevel.h
+	<SFML/Graphics.hpp>
+	<vector>
+	<string>
+
+1744481227 e:\gui-maze\level1.h
+	<SFML/Graphics.hpp>
+	<vector>
+	"Level.h"
+	"Maze.h"
+
+1744481250 e:\gui-maze\level2.h
+	"Level.h"
+
+1744481266 e:\gui-maze\level3.h
+	"Level.h"
+
+1744562537 e:\gui-maze\snake.h
+	<SFML/Graphics.hpp>
+	<vector>
+	"Maze.h"
+
+1744561514 source:e:\gui-maze\level1.cpp
+	"Level1.h"
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1744561526 source:e:\gui-maze\level2.cpp
+	"Level2.h"
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1744561533 source:e:\gui-maze\level3.cpp
+	"Level3.h"
+	<vector>
+	<string>
+	<algorithm>
+	<iostream>
+
+1744129390 source:e:\gui-maze\main.cpp
+	"Game.h"
+
+1744694908 source:e:\gui-maze\maze.cpp
+	"Maze.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1744567254 source:e:\gui-maze\menu.cpp
+	"Menu.h"
+	<iostream>
+
+1744600370 source:e:\gui-maze\scoreboard.cpp
+	"Scoreboard.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<sstream>
+
+1744564738 source:e:\gui-maze\selectlevel.cpp
+	"SelectLevel.h"
+	<iostream>
+
+1744562544 source:e:\gui-maze\snake.cpp
+	"Snake.h"
+	<iostream>
+
